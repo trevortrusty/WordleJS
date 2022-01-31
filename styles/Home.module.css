@@ -2,6 +2,12 @@
   padding: 0 2rem;
 }
 
+.square {
+  border: 2px solid black;
+  width: 70px;
+  height: 70px;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
@@ -114,3 +120,7 @@
     flex-direction: column;
   }
 }
+/* 
+.board {
+  position:sticky;
+} */

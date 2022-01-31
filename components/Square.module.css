@@ -1,0 +1,33 @@
+.square {
+    border: 2px solid black;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+  }
+  
+.attempt {
+  position: relative;
+}
+
+.squares, .input {
+  position: absolute;
+}
+
+.inputBox {
+  caret-color: transparent;
+  background: transparent;
+  border:0;
+  width: 400px;
+  height: 70px;
+  padding-left: 30px;
+  letter-spacing: 62px;
+}
+
+.inputBox:focus {
+  outline: none;
+}
+
+.spacer {
+  display: block;
+  height: 72px;
+}
