@@ -19,48 +19,7 @@ export default function Home() {
 
       </div>
 
-      {/* <div>
-        <Square color="white" place={1} />
-        <Square color="white" place={2} />
-        <Square color="white" place={3} />
-        <Square color="white" place={4} />
-        <Square color="white" place={5} />
-      </div>
-      <div>
-        <Square color="white" place={1} />
-        <Square color="white" place={2} />
-        <Square color="white" place={3} />
-        <Square color="white" place={4} />
-        <Square color="white" place={5} />
-      </div>
-      <div>
-        <Square color="white" place={1} />
-        <Square color="white" place={2} />
-        <Square color="white" place={3} />
-        <Square color="white" place={4} />
-        <Square color="white" place={5} />
-      </div>
-      <div>
-        <Square color="white" place={1} />
-        <Square color="white" place={2} />
-        <Square color="white" place={3} />
-        <Square color="white" place={4} />
-        <Square color="white" place={5} />
-      </div>
-      <div>
-        <Square color="white" place={1} />
-        <Square color="white" place={2} />
-        <Square color="white" place={3} />
-        <Square color="white" place={4} />
-        <Square color="white" place={5} />
-      </div>
-      <div>
-        <Square color="white" place={1} />
-        <Square color="white" place={2} />
-        <Square color="white" place={3} />
-        <Square color="white" place={4} />
-        <Square color="white" place={5} />
-      </div> */}
+      
     </div>
   )
 }
